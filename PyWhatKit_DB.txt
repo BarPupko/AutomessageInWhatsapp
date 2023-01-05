@@ -1,0 +1,50 @@
+Date: 5/1/2023
+Time: 8:18
+Phone Number: +972526333958
+Message: hello world
+--------------------
+Date: 5/1/2023
+Time: 8:21
+Phone Number: +972526333958
+Message: hello world
+--------------------
+Date: 5/1/2023
+Time: 9:4
+Phone Number: +972526333958
+Message: hello bar
+--------------------
+Date: 5/1/2023
+Time: 12:20
+Phone Number: +97212:21
+Message: 0546846527
+--------------------
+Date: 5/1/2023
+Time: 12:22
+Phone Number: +97212:23
+Message: 0526333958
+--------------------
+Date: 5/1/2023
+Time: 12:24
+Phone Number: +9721125
+Message: 0526333958
+--------------------
+Date: 5/1/2023
+Time: 12:25
+Phone Number: +9720526333958
+Message: hello world
+--------------------
+Date: 5/1/2023
+Time: 12:27
+Phone Number: +9720529561670
+Message: automatic message test
+--------------------
+Date: 5/1/2023
+Time: 14:50
+Phone Number: +9720546846527
+Message: hello everyhone
+--------------------
+Date: 5/1/2023
+Time: 14:52
+Phone Number: +9720546846527
+Message: hello world
+--------------------
